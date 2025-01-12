@@ -1,8 +1,8 @@
 # Sales_Resporting_Data
 Báo cáo &amp; Phân tích Doanh số Bán hàng với Python, Pandas, và Matplotlib
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 📊GitHub Stats :
 ![image](https://github.com/user-attachments/assets/601a67e9-4ca1-4561-a82d-e8392933c5bd)
 
 ![image](https://github.com/user-attachments/assets/db8b7944-8565-4b32-b51a-1d98ebb8e3d0)
