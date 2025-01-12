@@ -5,8 +5,6 @@ Báo cáo &amp; Phân tích Doanh số Bán hàng với Python, Pandas, và Matp
 
 ![image](https://github.com/user-attachments/assets/601a67e9-4ca1-4561-a82d-e8392933c5bd)
 
-![image](https://github.com/user-attachments/assets/23f88735-6718-49d9-9f77-461ffebafc7c)
-
 ![image](https://github.com/user-attachments/assets/12a60097-09cf-4fdd-a572-007375df4747)
 ### Data Sales Resporting
 Task 1: Setting up the environment and loading data
