@@ -1,5 +1,5 @@
 # Sales_Reporting_Data
-Báo cáo &amp; Phân tích Doanh số Bán hàng với Python, Pandas, và Matplotlib
+Sales Reporting & Analysis with Python, Pandas, and Matplotlib
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
