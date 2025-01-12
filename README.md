@@ -5,7 +5,8 @@ Báo cáo &amp; Phân tích Doanh số Bán hàng với Python, Pandas, và Matp
 
 ![image](https://github.com/user-attachments/assets/601a67e9-4ca1-4561-a82d-e8392933c5bd)
 
-![image](https://github.com/user-attachments/assets/19c4a835-47cc-4ed2-b626-d28232550cb0)
+![image](https://github.com/user-attachments/assets/2e8ce744-422f-4d30-8bb6-b4c669904703)
+
 
 
 ![image](https://github.com/user-attachments/assets/12a60097-09cf-4fdd-a572-007375df4747)
